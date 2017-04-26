@@ -14,4 +14,5 @@ do
 	afficherMenu
 	read -p "Entrez votre choix: " choix
 
+
 done
